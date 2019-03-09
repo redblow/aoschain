@@ -1,7 +1,7 @@
 # Table of contents
 
 * [简介](README.md)
-* [准备工作](untitled.md)
+* [准备工作](first.md)
 
 ## 配置账户资源
 
