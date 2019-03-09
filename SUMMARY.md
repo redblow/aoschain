@@ -6,6 +6,7 @@
 ## 配置账户资源
 
 * [内存（RAM）](pei-zhi-zhang-hu-zi-yuan/nei-cun-ram.md)
+* [CPU和NET](pei-zhi-zhang-hu-zi-yuan/cpu-he-net.md)
 
 ## 数字资产
 
