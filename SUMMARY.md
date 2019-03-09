@@ -5,15 +5,15 @@
 
 ## 配置账户资源
 
-* [内存（RAM）](pei-zhi-zhang-hu-zi-yuan/nei-cun-ram.md)
-* [CPU和NET](pei-zhi-zhang-hu-zi-yuan/cpu-he-net.md)
+* [内存（RAM）](ram-cpu-net/nei-cun-ram.md)
+* [CPU和NET](ram-cpu-net/cpu-he-net.md)
 
 ## 数字资产
 
-* [发行](shu-zi-zi-chan/fa-hang.md)
-* [冻结](shu-zi-zi-chan/dong-jie.md)
-* [召回](shu-zi-zi-chan/zhao-hui.md)
-* [转账](shu-zi-zi-chan/zhuan-zhang.md)
+* [发行](tokens/fa-hang.md)
+* [冻结](tokens/dong-jie.md)
+* [召回](tokens/zhao-hui.md)
+* [转账](tokens/zhuan-zhang.md)
 
 ## 投票
 
